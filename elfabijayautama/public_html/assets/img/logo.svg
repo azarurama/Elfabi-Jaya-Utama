@@ -1,0 +1,13 @@
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PT Elfabi Jaya Utama">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1A3C2A"/>
+      <stop offset="1" stop-color="#2C6E49"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#g)"/>
+  <g fill="#FFC72C">
+    <path d="M32 84h24c9 0 16-7 16-16s-7-16-16-16H44V36h12c17.7 0 32 14.3 32 32s-14.3 32-32 32H32V84z"/>
+    <circle cx="44" cy="44" r="8"/>
+  </g>
+</svg>

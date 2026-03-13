@@ -1,0 +1,7 @@
+<svg width="240" height="120" viewBox="0 0 240 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Client Logo">
+  <rect x="1" y="1" width="238" height="118" rx="12" fill="#ffffff" stroke="#e5e7eb"/>
+  <g fill="#94a3b8">
+    <rect x="28" y="36" width="48" height="48" rx="8"/>
+    <rect x="92" y="48" width="120" height="24" rx="6"/>
+  </g>
+</svg>

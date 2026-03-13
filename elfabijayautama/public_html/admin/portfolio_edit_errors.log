@@ -1,0 +1,4042 @@
+[16-Sep-2025 12:55:00 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 12:55:00 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 12:55:00 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+wdedwd
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 12:55:00 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 12:55:00 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+wdedwd
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 12:55:00 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 12:55:00 Asia/Jakarta] Raw description length: 404
+[16-Sep-2025 12:55:00 Asia/Jakarta] Description value: Produksi dan Pemasangan
+wdedwd
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 12:55:00 Asia/Jakarta] Values before update:
+[16-Sep-2025 12:55:00 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 12:55:00 Asia/Jakarta] - Category: branding
+[16-Sep-2025 12:55:00 Asia/Jakarta] - Description length: 404
+[16-Sep-2025 12:55:00 Asia/Jakarta] Update Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=?, updated_at=NOW() WHERE id=?
+[16-Sep-2025 12:55:00 Asia/Jakarta] Params: Array
+(
+    [0] => Project Lucy Curated Compund
+    [1] => branding
+    [2] => Produksi dan Pemasangan
+wdedwd
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [3] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [4] => Wismilak Group
+    [5] => 2025-09-01
+    [6] => Branding
+    [7] => 5
+)
+
+[16-Sep-2025 12:55:00 Asia/Jakarta] Error updating portfolio: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET'
+[16-Sep-2025 12:55:57 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 12:55:57 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 12:55:57 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 12:55:57 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 12:55:57 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 12:55:57 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 12:55:57 Asia/Jakarta] Raw description length: 401
+[16-Sep-2025 12:55:57 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 12:55:57 Asia/Jakarta] Values before update:
+[16-Sep-2025 12:55:57 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 12:55:57 Asia/Jakarta] - Category: branding
+[16-Sep-2025 12:55:57 Asia/Jakarta] - Description length: 401
+[16-Sep-2025 12:55:57 Asia/Jakarta] Update Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=?, updated_at=NOW() WHERE id=?
+[16-Sep-2025 12:55:57 Asia/Jakarta] Params: Array
+(
+    [0] => Project Lucy Curated Compund
+    [1] => branding
+    [2] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [3] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [4] => Wismilak Group
+    [5] => 2025-09-01
+    [6] => Branding
+    [7] => 5
+)
+
+[16-Sep-2025 12:55:57 Asia/Jakarta] Error updating portfolio: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'updated_at' in 'SET'
+[16-Sep-2025 13:05:25 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:05:25 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:05:25 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:05:25 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:05:25 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:05:25 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:05:25 Asia/Jakarta] Raw description length: 401
+[16-Sep-2025 13:05:25 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:05:25 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:05:25 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:05:25 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:05:25 Asia/Jakarta] - Description length: 401
+[16-Sep-2025 13:05:25 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:05:25 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:05:25 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:05:25 Asia/Jakarta] Description length: 401
+[16-Sep-2025 13:05:25 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[16-Sep-2025 13:05:25 Asia/Jakarta] Updated portfolio ID: 5
+[16-Sep-2025 13:05:25 Asia/Jakarta] Stored description length: 401
+[16-Sep-2025 13:05:25 Asia/Jakarta] Stored title: Project Lucy Curated Compund
+[16-Sep-2025 13:08:57 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:08:57 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:08:57 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:08:57 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:09:04 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:09:04 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:09:04 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:09:04 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:09:04 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:09:04 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:09:04 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:09:04 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:09:04 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:09:04 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:09:04 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:09:04 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:09:04 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:09:04 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:09:04 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:09:04 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:09:04 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[16-Sep-2025 13:09:04 Asia/Jakarta] Updated portfolio ID: 5
+[16-Sep-2025 13:09:04 Asia/Jakarta] Stored description length: 398
+[16-Sep-2025 13:09:04 Asia/Jakarta] Stored title: Project Lucy Curated Compund
+[16-Sep-2025 13:11:00 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:11:00 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:11:00 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:11:00 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:11:08 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:11:08 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:11:08 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+ali anjay
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:11:08 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:11:08 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+ali anjay
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:11:08 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:11:08 Asia/Jakarta] Raw description length: 407
+[16-Sep-2025 13:11:08 Asia/Jakarta] Description value: Produksi dan Pemasangan
+ali anjay
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:11:08 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:11:08 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:11:08 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:11:08 Asia/Jakarta] - Description length: 407
+[16-Sep-2025 13:11:08 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:11:08 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:11:08 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+ali anjay
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:11:08 Asia/Jakarta] Description length: 407
+[16-Sep-2025 13:11:08 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[16-Sep-2025 13:11:08 Asia/Jakarta] Updated portfolio ID: 5
+[16-Sep-2025 13:11:08 Asia/Jakarta] Stored description length: 407
+[16-Sep-2025 13:11:08 Asia/Jakarta] Stored title: Project Lucy Curated Compund
+[16-Sep-2025 13:11:42 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:11:42 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:11:42 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:11:42 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:11:48 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:11:48 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:11:48 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:11:48 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:11:48 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:11:48 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:11:48 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:11:48 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:11:48 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:11:48 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:11:48 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:11:48 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:11:48 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:11:48 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:11:48 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:11:48 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:11:48 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[16-Sep-2025 13:11:48 Asia/Jakarta] Updated portfolio ID: 5
+[16-Sep-2025 13:11:48 Asia/Jakarta] Stored description length: 398
+[16-Sep-2025 13:11:48 Asia/Jakarta] Stored title: Project Lucy Curated Compund
+[16-Sep-2025 13:13:27 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:13:27 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:13:27 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:13:27 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:13:33 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:13:33 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:13:33 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:13:33 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:13:33 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:13:33 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:13:33 Asia/Jakarta] Raw description length: 405
+[16-Sep-2025 13:13:33 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:13:33 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:13:33 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:13:33 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:13:33 Asia/Jakarta] - Description length: 405
+[16-Sep-2025 13:13:33 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:13:33 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:13:33 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:13:33 Asia/Jakarta] Description length: 405
+[16-Sep-2025 13:14:52 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:14:52 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:14:52 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:14:52 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:15:00 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:15:00 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:15:00 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:15:00 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:15:00 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:15:00 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:15:00 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:15:00 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:15:00 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:15:00 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:15:00 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:15:00 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:15:00 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:15:00 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:15:00 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:15:00 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:15:25 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:15:25 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:15:25 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:15:25 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:15:25 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:15:25 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:15:25 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:15:25 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:15:25 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:15:25 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:15:25 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:15:25 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:15:25 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:15:25 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:15:25 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:15:25 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:17:27 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:17:27 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:17:27 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:17:27 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:17:31 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:17:31 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:17:31 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:17:31 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:17:31 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:17:31 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:17:31 Asia/Jakarta] Raw description length: 401
+[16-Sep-2025 13:17:31 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:17:31 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:17:31 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:17:31 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:17:31 Asia/Jakarta] - Description length: 401
+[16-Sep-2025 13:17:31 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:17:31 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:17:31 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:17:31 Asia/Jakarta] Description length: 401
+[16-Sep-2025 13:17:53 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:17:53 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:17:53 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:17:53 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:17:53 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:17:53 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:17:53 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:17:53 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:17:53 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:17:53 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:17:53 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:17:53 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:17:53 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:17:53 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:17:53 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:17:53 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:18:05 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:18:05 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:18:05 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:18:05 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:18:05 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:18:05 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:18:05 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:18:05 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:18:05 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:18:05 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:18:05 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:18:05 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:18:05 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:18:05 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:18:05 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:18:05 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:18:40 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:18:40 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:18:40 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:18:40 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:18:40 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:18:40 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:18:40 Asia/Jakarta] Raw description length: 398
+[16-Sep-2025 13:18:40 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:18:40 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:18:40 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:18:40 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:18:40 Asia/Jakarta] - Description length: 398
+[16-Sep-2025 13:18:40 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:18:40 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:18:40 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:18:40 Asia/Jakarta] Description length: 398
+[16-Sep-2025 13:19:32 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:19:32 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:19:32 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:19:32 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:19:35 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:19:35 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:19:35 Asia/Jakarta] POST Data: Array
+(
+)
+
+[16-Sep-2025 13:19:35 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[16-Sep-2025 13:19:39 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:19:39 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:19:39 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:19:39 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:19:39 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:19:39 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:19:39 Asia/Jakarta] Raw description length: 401
+[16-Sep-2025 13:19:39 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:19:39 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:19:39 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:19:39 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:19:39 Asia/Jakarta] - Description length: 401
+[16-Sep-2025 13:19:39 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:19:39 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:19:39 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:19:39 Asia/Jakarta] Description length: 401
+[16-Sep-2025 13:19:49 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:19:49 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:19:49 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:19:49 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:19:49 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:19:49 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:19:49 Asia/Jakarta] Raw description length: 405
+[16-Sep-2025 13:19:49 Asia/Jakarta] Description value: Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+[16-Sep-2025 13:19:49 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:19:49 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:19:49 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:19:49 Asia/Jakarta] - Description length: 405
+[16-Sep-2025 13:19:49 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:19:49 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:19:49 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+tes tes
+Project Branding EVO
+
+Produksi dan pemasangan material Branding (1
+unit Totem Outdoor uk.
+206x33 cm. 1 unit Kios K uk 220x90x45 cm, 2
+unit Standing Ashtray
+Lighted Custom uk. 74x38 cm, 2 unit Neon Letter
+Evoria uk 74x37 cm, dan
+1 unit Neon Letter Diplomat Evo) incl
+maintenance selama 1 tahun WSP
+Gold Diplomat Evo di LCC (Lucy Curated
+Compound) area Jakarta 2
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:19:49 Asia/Jakarta] Description length: 405
+[16-Sep-2025 13:22:05 Asia/Jakarta] === DEBUGGING ENABLED ===
+[16-Sep-2025 13:22:05 Asia/Jakarta] PHP Version: 8.2.27
+[16-Sep-2025 13:22:05 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor ukuran 206x33 cm
+ 1 unit Kios K ukuran 220x90x45 cm
+2 unit Standing Ashtray Lighted Custom uk. 74x38 cm
+2 unit Neon Letter Evoria uk 74x37 cm
+1 unit Neon Letter Diplomat EVO
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:22:05 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[16-Sep-2025 13:22:05 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => 77f385d62245ffe69c4116c6eebb61620ce49355de0aebbb96c10ff90c4cd7ba
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor ukuran 206x33 cm
+ 1 unit Kios K ukuran 220x90x45 cm
+2 unit Standing Ashtray Lighted Custom uk. 74x38 cm
+2 unit Neon Letter Evoria uk 74x37 cm
+1 unit Neon Letter Diplomat EVO
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[16-Sep-2025 13:22:05 Asia/Jakarta] Raw description type: string
+[16-Sep-2025 13:22:05 Asia/Jakarta] Raw description length: 298
+[16-Sep-2025 13:22:05 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor ukuran 206x33 cm
+ 1 unit Kios K ukuran 220x90x45 cm
+2 unit Standing Ashtray Lighted Custom uk. 74x38 cm
+2 unit Neon Letter Evoria uk 74x37 cm
+1 unit Neon Letter Diplomat EVO
+[16-Sep-2025 13:22:05 Asia/Jakarta] Values before update:
+[16-Sep-2025 13:22:05 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[16-Sep-2025 13:22:05 Asia/Jakarta] - Category: branding
+[16-Sep-2025 13:22:05 Asia/Jakarta] - Description length: 298
+[16-Sep-2025 13:22:05 Asia/Jakarta] === UPDATE ATTEMPT ===
+[16-Sep-2025 13:22:05 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[16-Sep-2025 13:22:05 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor ukuran 206x33 cm
+ 1 unit Kios K ukuran 220x90x45 cm
+2 unit Standing Ashtray Lighted Custom uk. 74x38 cm
+2 unit Neon Letter Evoria uk 74x37 cm
+1 unit Neon Letter Diplomat EVO
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[16-Sep-2025 13:22:05 Asia/Jakarta] Description length: 298
+[18-Sep-2025 02:00:20 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 02:00:20 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 02:00:20 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 02:00:20 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:33:28 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:33:28 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:33:28 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:33:28 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:33:35 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:33:35 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:33:35 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:33:35 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:33:35 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:33:35 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:33:35 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:33:35 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:33:35 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:33:35 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:33:35 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:33:45 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:33:45 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:33:45 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:33:45 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:33:45 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:33:45 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:33:45 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:33:45 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:33:45 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:33:45 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:33:45 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:39:51 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:39:51 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:39:51 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:39:51 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:39:51 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:39:51 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:39:51 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:39:51 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:39:51 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:39:51 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:39:51 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:40:00 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:40:00 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:40:00 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:40:00 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:40:00 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:40:00 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:40:00 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:40:00 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:40:00 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:40:00 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:40:00 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:48:47 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:48:47 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:48:47 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:48:47 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:48:52 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:48:52 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:48:52 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:52 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:48:52 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:52 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:48:52 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:48:52 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:48:52 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:48:52 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:48:52 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:48:54 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:48:54 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:48:54 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:48:54 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:48:54 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:48:54 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:48:54 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:48:54 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:54 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:48:54 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:48:54 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:48:54 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:48:55 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:48:55 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:48:55 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:55 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:48:55 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:48:55 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:48:55 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:48:55 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:48:55 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:48:55 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:48:55 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:17 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:17 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:17 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:49:17 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:49:28 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:28 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:28 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:49:28 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:49:36 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:36 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:36 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:49:36 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:49:43 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:43 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:43 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:43 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:43 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:43 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:43 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:43 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:43 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:43 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:43 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:44 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:44 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:44 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:45 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:45 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:45 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:45 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:45 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:49:45 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:49:45 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:49:45 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => 
+    [client] => 
+)
+
+[18-Sep-2025 11:49:45 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:49:45 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:49:45 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:49:45 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 11:50:14 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:50:14 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:50:14 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 11:50:14 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 11:50:20 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 11:50:20 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 11:50:20 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:50:20 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 11:50:20 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 11:50:20 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 11:50:20 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 11:50:20 Asia/Jakarta] Values before update:
+[18-Sep-2025 11:50:20 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 11:50:20 Asia/Jakarta] - Category: branding
+[18-Sep-2025 11:50:20 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:24:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:24:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:24:44 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:24:44 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:25:10 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:25:10 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:25:10 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:25:10 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:25:15 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:25:15 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:25:15 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:15 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:25:15 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:15 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:25:15 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:25:15 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:25:15 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:25:15 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:25:15 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:25:17 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:25:17 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:25:17 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:17 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:25:17 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:17 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:25:17 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:25:17 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:25:17 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:25:17 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:25:17 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:25:43 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:25:43 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:25:43 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:25:43 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:25:52 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:25:52 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:25:52 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:52 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:25:52 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:25:52 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:25:52 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:25:52 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:25:52 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:25:52 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:25:52 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:27:07 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:27:07 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:27:07 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:27:07 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:27:07 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:27:07 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:27:07 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:27:07 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:27:07 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:27:07 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:27:07 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:29:30 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:30 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:30 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:29:30 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:44 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:44 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:44 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:44 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:29:44 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:29:50 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:50 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:50 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:50 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:29:50 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:50 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:29:50 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:29:50 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:29:50 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:29:50 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:29:50 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:51 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:51 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:51 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:29:51 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:29:51 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:29:51 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:29:57 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:29:57 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:29:57 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:57 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:29:57 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:29:57 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:29:57 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:29:57 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:29:57 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:29:57 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:29:57 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:31:19 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:19 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:19 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:31:19 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:31:19 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:19 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:19 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:31:19 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:31:19 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:19 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:19 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:31:19 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:31:33 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:33 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:33 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:31:33 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:31:33 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:31:33 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:31:33 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:31:33 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:31:33 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:31:33 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:31:33 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:31:37 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:37 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:37 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:31:37 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:31:54 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:31:54 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:31:54 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:31:54 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:32:01 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:32:01 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:32:01 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:32:01 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:32:01 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:32:01 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:32:01 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:32:01 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:32:01 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:32:01 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:32:01 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:32:18 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:32:18 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:32:18 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:32:18 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:32:18 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:32:18 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:32:18 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:32:18 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:32:18 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:32:18 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:32:18 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:34:55 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:34:55 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:34:55 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 12:34:55 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:35:02 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:35:02 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] === FORM SUBMISSION START ===
+[18-Sep-2025 12:35:02 Asia/Jakarta] Is AJAX: Yes
+[18-Sep-2025 12:35:02 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:02 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:35:02 Asia/Jakarta] Raw description length: 3
+[18-Sep-2025 12:35:02 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:35:02 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:35:02 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:35:02 Asia/Jakarta] - Description length: 3
+[18-Sep-2025 12:35:02 Asia/Jakarta] Validation errors: Deskripsi terlalu pendek. Minimal 10 karakter.
+[18-Sep-2025 12:35:02 Asia/Jakarta] Sending error response: {"status":"error","message":"Deskripsi terlalu pendek. Minimal 10 karakter.","errors":["Deskripsi terlalu pendek. Minimal 10 karakter."]}
+[18-Sep-2025 12:35:14 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 12:35:14 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 12:35:14 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes halo ges 
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] === FORM SUBMISSION START ===
+[18-Sep-2025 12:35:14 Asia/Jakarta] Is AJAX: Yes
+[18-Sep-2025 12:35:14 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes halo ges 
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => tes halo ges 
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 12:35:14 Asia/Jakarta] Raw description length: 13
+[18-Sep-2025 12:35:14 Asia/Jakarta] Description value: tes halo ges
+[18-Sep-2025 12:35:14 Asia/Jakarta] Values before update:
+[18-Sep-2025 12:35:14 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 12:35:14 Asia/Jakarta] - Category: branding
+[18-Sep-2025 12:35:14 Asia/Jakarta] - Description length: 12
+[18-Sep-2025 12:35:14 Asia/Jakarta] === UPDATE ATTEMPT ===
+[18-Sep-2025 12:35:14 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[18-Sep-2025 12:35:14 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Wooden Bar
+    [category] => branding
+    [description] => tes halo ges
+    [image] => uploads/portfolio/6a44b3f75224509cf8ab44c5eb86c9df.jpg
+    [client] => Wismilak Group
+    [project_date] => 2025-02-18
+    [services_used] => Branding
+    [id] => 8
+)
+
+[18-Sep-2025 12:35:14 Asia/Jakarta] Description length: 12
+[18-Sep-2025 13:37:40 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:37:40 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:37:40 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 13:37:40 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 13:38:42 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:38:42 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:38:42 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 13:38:42 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 13:40:25 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:40:25 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:40:25 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 13:40:25 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:41:32 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:41:32 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor 
+ 1 unit Kios K 
+2 unit Standing Ashtray Lighted Custom 
+2 unit Neon Letter Evoria 
+1 unit Neon Letter Diplomat EVO
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] === FORM SUBMISSION START ===
+[18-Sep-2025 13:41:32 Asia/Jakarta] Is AJAX: Yes
+[18-Sep-2025 13:41:32 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor 
+ 1 unit Kios K 
+2 unit Standing Ashtray Lighted Custom 
+2 unit Neon Letter Evoria 
+1 unit Neon Letter Diplomat EVO
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [project_date] => 2025-09-01
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor 
+ 1 unit Kios K 
+2 unit Standing Ashtray Lighted Custom 
+2 unit Neon Letter Evoria 
+1 unit Neon Letter Diplomat EVO
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 13:41:32 Asia/Jakarta] Raw description length: 240
+[18-Sep-2025 13:41:32 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor 
+ 1 unit Kios K 
+2 unit Standing Ashtray Lighted Custom 
+2 unit Neon Letter Evoria 
+1 unit Neon Letter Diplomat EVO
+[18-Sep-2025 13:41:32 Asia/Jakarta] Values before update:
+[18-Sep-2025 13:41:32 Asia/Jakarta] - Title: Project Lucy Curated Compund
+[18-Sep-2025 13:41:32 Asia/Jakarta] - Category: branding
+[18-Sep-2025 13:41:32 Asia/Jakarta] - Description length: 240
+[18-Sep-2025 13:41:32 Asia/Jakarta] === UPDATE ATTEMPT ===
+[18-Sep-2025 13:41:32 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[18-Sep-2025 13:41:32 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Lucy Curated Compund
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan 
+
+material Branding:
+ 1 unit Totem Outdoor 
+ 1 unit Kios K 
+2 unit Standing Ashtray Lighted Custom 
+2 unit Neon Letter Evoria 
+1 unit Neon Letter Diplomat EVO
+    [image] => uploads/portfolio/85c72c6bc302070cbffc0ce63dd9071e.png
+    [client] => Wismilak Group
+    [project_date] => 2025-09-01
+    [services_used] => Branding
+    [id] => 5
+)
+
+[18-Sep-2025 13:41:32 Asia/Jakarta] Description length: 240
+[18-Sep-2025 13:41:32 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[18-Sep-2025 13:41:32 Asia/Jakarta] Updated portfolio ID: 5
+[18-Sep-2025 13:41:32 Asia/Jakarta] Stored description length: 240
+[18-Sep-2025 13:41:32 Asia/Jakarta] Stored title: Project Lucy Curated Compund
+[18-Sep-2025 13:42:28 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:42:28 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:42:28 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 13:42:28 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:45:26 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:45:26 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+3 Unit Neon Box Middie EVO
+2 Unit Indoor Totem
+3 Unit Signage Tagline
+1 Unit Totem Evo Outdoor
+1 Unit Neonflex Evoria
+1 Unit Neonflex EVO
+40 Unit Tempat Tissue
+1 Unit Dispencer EVO
+
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] === FORM SUBMISSION START ===
+[18-Sep-2025 13:45:26 Asia/Jakarta] Is AJAX: Yes
+[18-Sep-2025 13:45:26 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+3 Unit Neon Box Middie EVO
+2 Unit Indoor Totem
+3 Unit Signage Tagline
+1 Unit Totem Evo Outdoor
+1 Unit Neonflex Evoria
+1 Unit Neonflex EVO
+40 Unit Tempat Tissue
+1 Unit Dispencer EVO
+
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Wooden Bar
+    [category] => branding
+    [project_date] => 2025-02-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+3 Unit Neon Box Middie EVO
+2 Unit Indoor Totem
+3 Unit Signage Tagline
+1 Unit Totem Evo Outdoor
+1 Unit Neonflex Evoria
+1 Unit Neonflex EVO
+40 Unit Tempat Tissue
+1 Unit Dispencer EVO
+
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 13:45:26 Asia/Jakarta] Raw description length: 267
+[18-Sep-2025 13:45:26 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+3 Unit Neon Box Middie EVO
+2 Unit Indoor Totem
+3 Unit Signage Tagline
+1 Unit Totem Evo Outdoor
+1 Unit Neonflex Evoria
+1 Unit Neonflex EVO
+40 Unit Tempat Tissue
+1 Unit Dispencer EVO
+[18-Sep-2025 13:45:26 Asia/Jakarta] Values before update:
+[18-Sep-2025 13:45:26 Asia/Jakarta] - Title: Project Wooden Bar
+[18-Sep-2025 13:45:26 Asia/Jakarta] - Category: branding
+[18-Sep-2025 13:45:26 Asia/Jakarta] - Description length: 265
+[18-Sep-2025 13:45:26 Asia/Jakarta] === UPDATE ATTEMPT ===
+[18-Sep-2025 13:45:26 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[18-Sep-2025 13:45:26 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Wooden Bar
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+3 Unit Neon Box Middie EVO
+2 Unit Indoor Totem
+3 Unit Signage Tagline
+1 Unit Totem Evo Outdoor
+1 Unit Neonflex Evoria
+1 Unit Neonflex EVO
+40 Unit Tempat Tissue
+1 Unit Dispencer EVO
+    [image] => uploads/portfolio/6a44b3f75224509cf8ab44c5eb86c9df.jpg
+    [client] => Wismilak Group
+    [project_date] => 2025-02-18
+    [services_used] => Branding
+    [id] => 8
+)
+
+[18-Sep-2025 13:45:26 Asia/Jakarta] Description length: 265
+[18-Sep-2025 13:45:26 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[18-Sep-2025 13:45:26 Asia/Jakarta] Updated portfolio ID: 8
+[18-Sep-2025 13:45:26 Asia/Jakarta] Stored description length: 265
+[18-Sep-2025 13:45:26 Asia/Jakarta] Stored title: Project Wooden Bar
+[18-Sep-2025 13:49:18 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:49:18 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:49:18 Asia/Jakarta] POST Data: Array
+(
+)
+
+[18-Sep-2025 13:49:18 Asia/Jakarta] FILES Data: Array
+(
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] === DEBUGGING ENABLED ===
+[18-Sep-2025 13:54:55 Asia/Jakarta] PHP Version: 8.2.27
+[18-Sep-2025 13:54:55 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Angkringan Semar
+    [category] => branding
+    [project_date] => 2025-04-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+material Branding:
+- Tissue Box
+- Dispenser Lighted
+- Table Top Display
+- Neon Box Evo
+- Totem Outdoor dan Indoor
+- Table Ashtray
+- Neon Letter Evoria
+- Lettersign Diplomat Evo
+- Totem Sign
+- PNT 3D
+- Panggung Stage
+- Lampu Sorot
+- Neon Flex
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] === FORM SUBMISSION START ===
+[18-Sep-2025 13:54:55 Asia/Jakarta] Is AJAX: Yes
+[18-Sep-2025 13:54:55 Asia/Jakarta] POST Data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Angkringan Semar
+    [category] => branding
+    [project_date] => 2025-04-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+material Branding:
+- Tissue Box
+- Dispenser Lighted
+- Table Top Display
+- Neon Box Evo
+- Totem Outdoor dan Indoor
+- Table Ashtray
+- Neon Letter Evoria
+- Lettersign Diplomat Evo
+- Totem Sign
+- PNT 3D
+- Panggung Stage
+- Lampu Sorot
+- Neon Flex
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] FILES Data: Array
+(
+    [image] => Array
+        (
+            [name] => 
+            [full_path] => 
+            [type] => 
+            [tmp_name] => 
+            [error] => 4
+            [size] => 0
+        )
+
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] POST data: Array
+(
+    [csrf_token] => d015614d07d9d6ace0ccdef5c68e99f4f432dd727b707c384f69721b4fdd848a
+    [is_ajax] => 1
+    [title] => Project Angkringan Semar
+    [category] => branding
+    [project_date] => 2025-04-18
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+material Branding:
+- Tissue Box
+- Dispenser Lighted
+- Table Top Display
+- Neon Box Evo
+- Totem Outdoor dan Indoor
+- Table Ashtray
+- Neon Letter Evoria
+- Lettersign Diplomat Evo
+- Totem Sign
+- PNT 3D
+- Panggung Stage
+- Lampu Sorot
+- Neon Flex
+    [services_used] => Branding
+    [client] => Wismilak Group
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] Raw description type: string
+[18-Sep-2025 13:54:55 Asia/Jakarta] Raw description length: 332
+[18-Sep-2025 13:54:55 Asia/Jakarta] Description value: Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+material Branding:
+- Tissue Box
+- Dispenser Lighted
+- Table Top Display
+- Neon Box Evo
+- Totem Outdoor dan Indoor
+- Table Ashtray
+- Neon Letter Evoria
+- Lettersign Diplomat Evo
+- Totem Sign
+- PNT 3D
+- Panggung Stage
+- Lampu Sorot
+- Neon Flex
+[18-Sep-2025 13:54:55 Asia/Jakarta] Values before update:
+[18-Sep-2025 13:54:55 Asia/Jakarta] - Title: Project Angkringan Semar
+[18-Sep-2025 13:54:55 Asia/Jakarta] - Category: branding
+[18-Sep-2025 13:54:55 Asia/Jakarta] - Description length: 332
+[18-Sep-2025 13:54:55 Asia/Jakarta] === UPDATE ATTEMPT ===
+[18-Sep-2025 13:54:55 Asia/Jakarta] Query: UPDATE portfolio SET title=?, category=?, description=?, image=?, client=?, project_date=?, services_used=? WHERE id=?
+[18-Sep-2025 13:54:55 Asia/Jakarta] Parameters: Array
+(
+    [title] => Project Angkringan Semar
+    [category] => branding
+    [description] => Produksi dan Pemasangan
+
+Project Branding EVO
+
+Produksi dan pemasangan
+
+material Branding:
+- Tissue Box
+- Dispenser Lighted
+- Table Top Display
+- Neon Box Evo
+- Totem Outdoor dan Indoor
+- Table Ashtray
+- Neon Letter Evoria
+- Lettersign Diplomat Evo
+- Totem Sign
+- PNT 3D
+- Panggung Stage
+- Lampu Sorot
+- Neon Flex
+    [image] => uploads/portfolio/b6ed2c3ec03e7fbb85256af5ba7a79a6.jpg
+    [client] => Wismilak Group
+    [project_date] => 2025-04-18
+    [services_used] => Branding
+    [id] => 7
+)
+
+[18-Sep-2025 13:54:55 Asia/Jakarta] Description length: 332
+[18-Sep-2025 13:54:55 Asia/Jakarta] === UPDATE SUCCESSFUL ===
+[18-Sep-2025 13:54:55 Asia/Jakarta] Updated portfolio ID: 7
+[18-Sep-2025 13:54:55 Asia/Jakarta] Stored description length: 332
+[18-Sep-2025 13:54:55 Asia/Jakarta] Stored title: Project Angkringan Semar

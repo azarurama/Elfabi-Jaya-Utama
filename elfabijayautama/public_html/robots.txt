@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow admin area
+Disallow: /admin/
+Disallow: /core/
+Disallow: /config/
+
+# Sitemap location
+Sitemap: https://elfabijayautama.com/sitemap.xml
